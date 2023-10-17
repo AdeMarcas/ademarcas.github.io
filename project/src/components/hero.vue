@@ -1,13 +1,13 @@
 <template>
     <div class="hero bg-base-200 rounded-xl">
-        <div class="hero-content flex-col lg:flex-row-reverse justify-between">
+        <div class="hero-content flex-col lg:flex-row-reverse justify-around">
             <!-- https://i.imgur.com/Ht6l8vH.jpeg -->
             <img
                 src="https://i.imgur.com/jPWLX6j.jpeg"
                 class="max-w-sm rounded-lg shadow-2xl"
                 style="height: 21rem"
             />
-            <div class="lg:w-1/3">
+            <div class="lg:w-6/12">
                 <h1 class="text-5xl font-bold">
                     Hey, I am <span style="color: #870ec7">Aviva</span>!
                 </h1>

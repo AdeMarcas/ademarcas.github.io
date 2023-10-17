@@ -10,7 +10,7 @@ import Videocard_streetwise from './components/videocard_streetwise.vue';
 
 <template>
     <div class="grid grid-cols-12 gap-4 mt-5 pb-5 mb-5 pb-5">
-        <div class="col-start-2 col-span-10 ..."><Hero /></div>
+        <div class="col-start-3 col-span-8"><Hero /></div>
     </div>
 
     <div class="grid grid-cols-12 gap-4 mt-5 pb-5">
