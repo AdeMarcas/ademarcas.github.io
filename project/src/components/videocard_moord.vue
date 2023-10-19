@@ -5,10 +5,10 @@
                 Een Passende Moord
             </h2>
             <p>
-                Produced in 2023, my final exam shortfilm of my MBO education.
-                The main focus being the Cinematography. Produced in 2023, my
-                final exam shortfilm of my MBO education. The main focus being
-                the Cinematography.
+                This was the shortfilm I made for my final exam for the
+                Cinematography classes in 2023. I filmed everything in one day
+                and I am very proud of the result. I really put everything i
+                could into this shortfilm and it is my best one yet.
             </p>
         </div>
 
